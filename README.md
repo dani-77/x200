@@ -5,7 +5,7 @@ The x200m4rc0.rom is a Coreboot rom.
 
 With coreboot or libreboot already flashed, flash using:
 
-sudo flashrom -p internal -w nameofthe.rom -V
+# sudo flashrom -p internal -w nameofthe.rom -V
 
 
 With stock bios, you should use an external flasher (Rpi, BBB or 
