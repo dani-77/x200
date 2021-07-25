@@ -1,7 +1,7 @@
 # x200 Coreboot and Libreboot rom's.
-The ukqwerty_newmac_x200.rom and x200_8mb_ukqwerty_vesafb.rom are Libreboot roms.
+The x200_8mb_ukqwerty_vesafb.rom is a Libreboot rom.
 
-The x200m4rc0.rom is a Coreboot rom.
+The 1280_seabios_x200_8mb_vgarom_vesafb.rom is a Coreboot rom.
 
 With coreboot or libreboot already flashed, flash using:
 
